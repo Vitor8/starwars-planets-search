@@ -1,5 +1,7 @@
-# starwars-planets-search
+# Starwars-planets-search
 Aplicação React que simula uma ferramenta de pesquisa, fazendo requisições a uma API. A manipulação do estado global da aplicação é feita usando Context API.
+
+Link GitHug Pages: vitor8.github.io/starwars-planets-search/
 
 ![Captura de tela de 2021-08-25 14-08-52](https://user-images.githubusercontent.com/24492328/130834819-10142e39-20d4-4608-a83a-0c2f370964a9.png)
 
