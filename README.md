@@ -19,6 +19,7 @@ Com este resultado, o app renderiza uma ferramenta de pesquisa.
 Existem dois tipos de pesquisa possíveis:
 
   1 - No Header, o usuário pode filtrar automaticamente pelo nome do planeta, sem haver a necessidade de clicar em um botão.
+  
   2 - No Header, o usuário pode filtrar por valores numéricos, escolhendo a coluna pela qual filtrar, e escolhendo os valores a serem comparados.
   
  Link do GitHub Pages: vitor8.github.io/starwars-planets-search/
